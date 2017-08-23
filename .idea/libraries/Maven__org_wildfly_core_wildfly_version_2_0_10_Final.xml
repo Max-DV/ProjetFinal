@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Maven: org.wildfly.core:wildfly-version:2.0.10.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-version/2.0.10.Final/wildfly-version-2.0.10.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/wildfly/core/wildfly-version/2.0.10.Final/wildfly-version-2.0.10.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

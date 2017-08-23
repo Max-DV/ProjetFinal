@@ -12,7 +12,7 @@ public class UserResource {
 	@Path("test")
 	@GET
 	public String test(){
-		return "test";
+		return "bg team";
 	}
 	
 
